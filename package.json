@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/elubilu/web-scrapping-nodejs/issues"
   },
-  "homepage": "https://github.com/elubilu/web-scrapping-nodejs#readme"
+  "homepage": "https://github.com/elubilu/web-scrapping-nodejs#readme",
+  "dependencies": {
+    "puppeteer": "^13.5.2"
+  }
 }
