@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/elubilu/web-scrapping-nodejs#readme",
   "dependencies": {
-    "puppeteer": "^13.5.2"
+    "apify": "^2.2.2",
+    "puppeteer": "^13.5.2",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0"
   }
 }
