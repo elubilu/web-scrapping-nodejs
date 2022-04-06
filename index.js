@@ -8,6 +8,10 @@ async function start() {
 
   //Take screenshot of a webpage
   await page.screenshot({path : "test.png"})
+
+  //Take screenshot of a full webpage
+  await page.screenshot({path : "test.png", fullPage: true})
+
   await browser.close()
 }
 
