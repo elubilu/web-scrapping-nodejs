@@ -1,5 +1,4 @@
 const puppeteer = require('puppeteer-extra')
-const csvParse = require('csv-parse')
 const csvParser = require('csv-parser')
 const fs =  require('fs.promises')
 const fsC =  require('fs')
